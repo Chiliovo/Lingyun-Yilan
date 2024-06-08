@@ -56,9 +56,9 @@
 
 #### 更新日志
 
-- [ ] 2024-06-8
+- 2024-06-8
 
-创建 小六壬GPTs工具
+  创建 小六壬GPTs工具
 
 </details>
 
@@ -72,15 +72,15 @@
   > 小六壬（孔明六曜星）は、中国の伝統的な暦法における注目で、毎日の凶吉を示すために使用されます。
 
 
-### [小六壬占いGPTs](https://chat.openai.com/g/g-wCF8ISu58-ling-yun-yi-lan)
+### [小六壬占いGPTs](https://chatgpt.com/g/g-K8jK77ozk-xiao-liu-ren-ling-yun-yi-lan)
 
 **[小六壬デモビデオ](https://github.com/Chiliovo/Lingyun-Yilan/blame/main/xiaoliuren.mp4)**
 
 #### 更新ログ
 
-- [ ] 2024-06-8
+- 2024-06-8
 
-  作成中
+  小六壬GPTsツールを作成する
 
 </details>
 
@@ -90,17 +90,17 @@
 
 ## Xiaoliuren Divination
 
- > Xiaoliuren (Kongming's Six-Day Stars) is a notation in traditional Chinese calendrical systems used to indicate the fortune or misfortune of each day.
+ > Xiao Liu Ren (Kongming's Six Luminaries), is a notation in the traditional Chinese calendar, used to indicate the daily auspicious and inauspicious events.
 
-### [Xiaoliuren Divination GPTs](https://chat.openai.com/g/g-wCF8ISu58-ling-yun-yi-lan)
+### [Xiaoliuren Divination GPTs](https://chatgpt.com/g/g-SfS0RWgwV-xiaoliuren-divination-lingyun-yi-lan)
 
 **[Xiaoliuren Demo Video](https://github.com/Chiliovo/Lingyun-Yilan/blame/main/xiaoliuren.mp4)**
 
-#### 更新日志
+#### Update Log
 
-- [ ] 2024-06-8
+- 2024-06-8
 
-  Creating
+  Create the Xiao Liu Ren GPTs tool
 
 </details>
 
