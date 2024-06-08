@@ -3,9 +3,9 @@
 
   AI爱好者，易学研究者，从师学习奇门遁甲，风水八字等，虽然网上有很多命理排盘的软件，但并不像GPT灵活易懂，所以为了验证自己所学.
 
-于二月初写了个全网最准的2024甲辰年预测GPTs工具，并且后续会写出更高的周易验证率GPTs工具，如奇门遁甲、梅花易数、六爻、风水寻龙点穴等.
+于甲辰年初写了个全网最准的2024甲辰年预测GPTs工具，并且后续会写出更高的周易验证率GPTs工具，仅供学习研究。
 
-对于目前这个项目我将会持续更新，也希望这些工具能够帮助大家，如果喜欢本项目请给我一个Stars，在此先感谢大家的支持，谢谢！最后本人没有封建迷信的误导大家，仅供学习研究，请大家自鉴！
+也希望这些工具能够帮助大家，如果喜欢本项目请给我一个Stars。
 
 ## 2024年甲辰年预测GPTs
 
@@ -43,22 +43,22 @@
   
   </details>
 
-## 六爻占卜
+## 小六壬占卜
 
 <details>
 
-<summary>六爻占卜</summary>
+<summary>小六壬占卜</summary>
 
 
-### [六爻GPTs](https://chat.openai.com/g/g-wCF8ISu58-ling-yun-yi-lan)
+### [小六壬GPTs](https://chatgpt.com/g/g-mp3gLcbXr-xiao-liu-ren-ling-yun-yi-lan)
 
 **[六爻演示视频](https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Demo.mp4?raw=true)**
 
 #### 更新日志
 
-- [ ] 2024-04-28
+- [ ] 2024-06-8
 
-  创建中
+创建 小六壬GPTs工具
 
 </details>
 
@@ -165,16 +165,6 @@
 #### [个人主页：Chiliovo](https://github.com/Chiliovo)
 
 #### [X（twitter）：LingYunYiLan](https://twitter.com/LingyunYilan)
-
-#### [Bilibili：Chilioyo](https://b23.tv/sJtuDsX)
-
-#### [小红书：Chiliovo](https://www.xiaohongshu.com/user/profile/648487fa000000000f00774d?xhsshare=CopyLink&appuid=63c26c2d0000000026006ffc&apptime=1714225970)
-
-#### [TikTok：Chilioyo](https://www.tiktok.com)
-
-**[易学交流反馈群](https://github.com/Chiliovo/-/blob/main/1.jpg?raw=true)**
-
-**[微信反馈](https://github.com/Chiliovo/-/blob/main/chili.jpg?raw=true)**
 
 </details>
 
