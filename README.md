@@ -52,7 +52,7 @@
 
 ### [小六壬GPTs](https://chatgpt.com/g/g-mp3gLcbXr-xiao-liu-ren-ling-yun-yi-lan)
 
-**[六爻演示视频](https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Demo.mp4?raw=true)**
+**[小六壬演示视频](https://github.com/Chiliovo/Lingyun-Yilan/blame/main/xiaoliuren.mp4)**
 
 #### 更新日志
 
@@ -65,20 +65,20 @@
 
 <details>
 
-<summary>六爻占い(りくげつざんい)</summary>
+<summary>小六壬占い</summary>
 
-## 六爻占い(りくげつざんい)
+## 小六壬占い
 
-  > 六爻占卜は中国の易経に起源がある。
+  > 小六壬（孔明六曜星）は、中国の伝統的な暦法における注目で、毎日の凶吉を示すために使用されます。
 
 
-### [六爻占いGPTs](https://chat.openai.com/g/g-wCF8ISu58-ling-yun-yi-lan)
+### [小六壬占いGPTs](https://chat.openai.com/g/g-wCF8ISu58-ling-yun-yi-lan)
 
-**[六爻のデモビデオ](https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Demo.mp4?raw=true)**
+**[小六壬デモビデオ](https://github.com/Chiliovo/Lingyun-Yilan/blame/main/xiaoliuren.mp4)**
 
 #### 更新ログ
 
-- [ ] 2024-04-28
+- [ ] 2024-06-8
 
   作成中
 
@@ -86,19 +86,19 @@
 
 <details>
 
-<summary>Six Divination</summary>
+<summary>Xiaoliuren Divination</summary>
 
-## Six Divination
+## Xiaoliuren Divination
 
- > Six Lines Divination originated from the Chinese Book of Changes, the I Ching.
+ > Xiaoliuren (Kongming's Six-Day Stars) is a notation in traditional Chinese calendrical systems used to indicate the fortune or misfortune of each day.
 
-### [Six Divination GPTs](https://chat.openai.com/g/g-wCF8ISu58-ling-yun-yi-lan)
+### [Xiaoliuren Divination GPTs](https://chat.openai.com/g/g-wCF8ISu58-ling-yun-yi-lan)
 
-**[Six Lines Divination Demonstration Video](https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Demo.mp4?raw=true)**
+**[Xiaoliuren Demo Video](https://github.com/Chiliovo/Lingyun-Yilan/blame/main/xiaoliuren.mp4)**
 
 #### 更新日志
 
-- [ ] 2024-04-28
+- [ ] 2024-06-8
 
   Creating
 
