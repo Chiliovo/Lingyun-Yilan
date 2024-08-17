@@ -72,7 +72,13 @@
 
 #### [周公解梦GPTs](https://chatgpt.com/g/g-AYIr58KIj-zhou-gong-jie-meng-ling-yun-yi-lan)
 
-[![周公解梦GPTs演示视频](URL)](https://b23.tv/I0PlUQp)
+<div align="center">
+  <a href="https://b23.tv/I0PlUQp">
+    <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Zhou%20Gong's%20Dream%20Interpretation/Cover.jpg?raw=true" alt="全网AI推算最准的周公解梦GPTs" style="width:80%; border-radius:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <p><em>立即体验视频解读</em></p>
+</div>
+
 
 ##### 更新日志
 
