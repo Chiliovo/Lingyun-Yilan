@@ -14,6 +14,8 @@
 ## 目录
 - [2024年甲辰年预测GPTs](#2024年甲辰年预测gpts)
 - [周公解梦](#周公解梦)
+- [八字排盘算命](#八字排盘算命)
+- [奇门遁甲断事](#奇门遁甲断事)
 - [小六壬占卜](#小六壬占卜)
   - [中文版](#小六壬占卜)
   - [英文版](#xiaoliuren-divination-english-version)
@@ -269,7 +271,11 @@
 
 <details>
 
-<summary>道家灵符</summary>
+<summary>趋吉避凶神符</summary>
+
+**[正在传输](https://github.com/Chiliovo)**
+
+<summary>神符和预测</summary>
 
 **[正在传输](https://github.com/Chiliovo)**
 
