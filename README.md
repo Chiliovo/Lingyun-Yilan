@@ -161,7 +161,12 @@
 
 #### [八字速断GPTs](https://chatgpt.com/g/g-80MQmH27m-ba-zi-su-duan-ling-yun-yi-lan)
 
-[![八字速断演示视频](https://app.gemoo.com/share/home?codeId=PYk9NVnwKaxgV)](https://gemoo.com/tools/upload-video/share/701219979749126144?codeId=M014d5ro44Z3Z&card=701219975898755072)
+<div align="center">
+  <a href="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/AI%20fortune-telling/freecompress-AI%20fortune-telling.mp4?raw=true">
+    <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/AI%20fortune-telling/AI%20fortune-telling.jpg?raw=true" alt="八字速断演示视频" style="width:80%; border-radius:10px;">
+  </a>
+  <p><em>立即体验视频解读</em></p>
+</div>
 
 ##### 更新日志
 
@@ -173,7 +178,7 @@
 
   修复 排盘问题
 
-- 2024-10-3
+- 2024-10-5
 
   更新 版本1.6
 
