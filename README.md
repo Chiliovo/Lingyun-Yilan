@@ -14,14 +14,13 @@
 [English](#english-version) | [日本語](#日本語バージョン)
 
 ## 目录
-- [2024年甲辰年预测GPTs](#2024年甲辰年预测gpts)
 - [周公解梦](#周公解梦)
 - [八字速断](#八字速断)
 - [道家灵符功用](#道家灵符功用)
 - [GPTs脚本代码分享](#gpts脚本代码分享)
-- [陆续更新更多实用GPTs工具](#更多实用gpts工具)
+- [更多实用GPTs工具](#更多实用gpts工具)
+- [2024年甲辰年预测GPTs](#2024年甲辰年预测gpts)
 - [社交媒体](#社交媒体)
-- [Stars](#stars)
 
 ## 2024年甲辰年预测GPTs
 <details>
@@ -162,7 +161,7 @@
 
 #### [八字速断GPTs](https://chatgpt.com/g/g-80MQmH27m-ba-zi-su-duan-ling-yun-yi-lan)
 
-[![八字速断演示视频](https://github.com/Chiliovo/Lingyun-Yilan/blob/main/xiaoliuren.png)](https://github.com/Chiliovo/Lingyun-Yilan/blob/main/xiaoliurenx2.mp4)
+[![八字速断演示视频](https://app.gemoo.com/share/home?codeId=PYk9NVnwKaxgV)](https://gemoo.com/tools/upload-video/share/701219979749126144?codeId=M014d5ro44Z3Z&card=701219975898755072)
 
 ##### 更新日志
 
@@ -186,7 +185,7 @@
 
 <summary>正在更新中</summary>
 
-**[正在肝中](https://github.com/Chiliovo)**
+**[陆续会创建更多实用易学GPTs工具](https://github.com/Chiliovo)**
 
 </details>
 
