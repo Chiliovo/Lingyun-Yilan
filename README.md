@@ -162,8 +162,8 @@
 #### [八字速断GPTs](https://chatgpt.com/g/g-80MQmH27m-ba-zi-su-duan-ling-yun-yi-lan)
 
 <div align="center">
-  <a href="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/AI%20fortune-telling/freecompress-AI%20fortune-telling.mp4?raw=true">
-    <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/AI%20fortune-telling/AI%20fortune-telling.jpg?raw=true" alt="八字速断演示视频" style="width:80%; border-radius:10px;">
+  <a href="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/AI%20fortune-telling/freecompress-AI%20fortune-telling.mp4?raw=true" download="AI-fortune-telling.mp4">
+    <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/AI%20fortune-telling/AI%20fortune-telling.gif?raw=true" alt="八字速断演示视频" style="width:80%; border-radius:10px;">
   </a>
   <p><em>立即体验视频解读</em></p>
 </div>
