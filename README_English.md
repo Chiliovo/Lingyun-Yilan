@@ -12,7 +12,7 @@
 
 If you like this project, please give it a star ⭐ Thank you~
 
-[中文版](./README.md) | [日本語](./README_Japanese.md)
+[中文](./README.md) | [日本語](./README_Japanese.md)
 
 ## Table of Contents
 - [Zhou Gong Dream Interpretation](#zhou-gong-dream-interpretation)
