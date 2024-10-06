@@ -188,13 +188,45 @@
 ## 道教の霊符の使い方
 
 <details>
-<summary>吉凶回避の神符</summary>
+
+<summary>吉凶を避ける霊符</summary>
 
 **[伝送中](https://github.com/Chiliovo)**
 
 </details>
 
 <details>
-<summary>家宅保護の神符</summary>
+
+<summary>家宅保護の霊符</summary>
 
 **[伝送中](https://github.com/Chiliovo)**
+
+</details>
+
+## GPTsスクリプト共有
+
+<details>
+
+<summary>コード共有</summary>
+
+jsx
+プロジェクト完成時に共有予定
+
+</details>
+
+## 実用的なGPTsツール
+
+<details>
+
+<summary>開発中</summary>
+
+**[順次さらに多くの実用的な易学GPTsツールを作成中](https://github.com/Chiliovo)**
+
+</details>
+
+## ソーシャルメディア
+[![個人ホームページ：Chiliovo](https://img.shields.io/badge/GitHub-Chiliovo-green?style=social&logo=github)](https://github.com/Chiliovo)
+[![X（Twitter）：LingYunYiLan](https://img.shields.io/twitter/follow/LingyunYilan?style=social)](https://twitter.com/LingyunYilan)
+
+## Stars
+[![Star History Chart](https://api.star-history.com/svg?repos=LingYunYiLan/GPTsTool&type=Timeline)](https://star-history.com/#LingYunYiLan/GPTsTool&Timeline)
