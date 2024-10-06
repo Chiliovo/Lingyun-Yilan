@@ -13,7 +13,7 @@
 
 如果喜欢本项目，请给我一个 Stars ⭐ 谢谢~
 
-[English](#english-version) | [日本語](#日本語バージョン)
+[English Version](./README_English.md) | [日本語](#日本語バージョン)
 
 ## 目录
 - [周公解梦](#周公解梦)
