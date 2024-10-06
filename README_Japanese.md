@@ -12,7 +12,7 @@
 
 このプロジェクトが気に入ったら、ぜひスターをつけてください ⭐ ありがとうございます。
 
-[English](./README_English.md) | [中文版](./README.md)
+[English](./README_English.md) | [中文](./README.md)
 
 ## 目次
 - [周公の夢解釈](#周公の夢解釈)
