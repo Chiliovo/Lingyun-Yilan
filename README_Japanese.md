@@ -1,4 +1,4 @@
-# 凌雲易覧GPTsTool
+# 凌雲易覧GPTsTool (README_Japanese.md)
 
 > **前書き**：AI愛好者、易学研究者として、本プロジェクトで作成された周易GPTsツールは、現在のところ、インターネット全体での正確性において上位に位置していると考えられます。
 
@@ -12,7 +12,7 @@
 
 このプロジェクトが気に入ったら、ぜひスターをつけてください ⭐ ありがとうございます。
 
-[English](#english-version) | [日本語](#日本語バージョン)
+[English](../README_English.md) | [中文版](./README.md)
 
 ## 目次
 - [周公の夢解釈](#周公の夢解釈)
@@ -198,32 +198,3 @@
 <summary>家宅保護の神符</summary>
 
 **[伝送中](https://github.com/Chiliovo)**
-
-</details>
-
-## GPTsスクリプト共有
-
-<details>
-<summary>コード共有</summary>
-
-```jsx
-プロジェクト完成時に共有予定。
-```
-</details>
-
-## 実用的なGPTsツール
-
-<details>
-<summary>開発中</summary>
-
-**[さらに多くの実用的な易学GPTsツールを順次作成中](https://github.com/Chiliovo)**
-
-</details>
-
-## ソーシャルメディア
-[![個人ホームページ：Chiliovo](https://img.shields.io/badge/GitHub-Chiliovo-green?style=social&logo=github)](https://github.com/Chiliovo)
-[![X（Twitter）：LingYunYiLan](https://img.shields.io/twitter/follow/LingyunYilan?style=social)](https://twitter.com/LingyunYilan)
-
-## スター
-[![スター履歴チャート](https://api.star-history.com/svg?repos=LingYunYiLan/GPTsTool&type=Timeline)](https://star-history.com/#LingYunYiLan/GPTsTool&Timeline)
-
