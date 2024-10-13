@@ -137,6 +137,18 @@ If you like this project, please give it a star ⭐ Thank you~
 
   Adjusted charting issues (Recommended to directly upload chart images or provide the Four Pillars: e.g., Renyin Year, Renyin Month, Renyin Day, Renyin Hour, Male)
 
+- 2024-10-12
+
+  Update Improve the accuracy of marriage and relationship predictions (If inaccurate, delete the entire conversation and reload a new one. Updates will continue in the future.)
+
+- 2024-10-13
+
+  Update Improve the accuracy of wealth pattern predictions (If inaccurate, delete the entire conversation and reload a new one. Updates will continue in the future.)
+
+- 2024-10-14
+
+  Update Diagnose disease issues.
+
 </details>
 
 ## Taoist Talismans Usage
