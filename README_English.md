@@ -111,7 +111,7 @@ If you like this project, please give it a star ⭐ Thank you~
 
 > At the moment of an individual's birth, the energy of the terrestrial magnetic field is infused into their body, thereby influencing their life trajectory to some extent. This is what is meant by fate.
 
-#### [Bazi Quick Divination GPTs](https://chatgpt.com/g/g-80MQmH27m-ba-zi-su-duan-ling-yun-yi-lan)
+#### [Bazi Quick Divination GPTs](https://chatgpt.com/g/g-gYVRR8AzA-bazi-quick-insight-lingyun-yilan)
 
 <div align="center">
   <a href="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/AI%20fortune-telling/freecompress-AI%20fortune-telling.mp4?raw=true" download="AI-fortune-telling.mp4">
