@@ -18,6 +18,7 @@
 - [周公の夢解釈](#周公の夢解釈)
 - [八字速断](#八字速断)
 - [道教の霊符の使い方](#道教の霊符の使い方)
+- [凌云易览プロジェクト予測](#凌云易览プロジェクト予測)
 - [GPTsスクリプト共有](#gptsスクリプト共有)
 - [実用的なGPTsツール](#実用的なgptsツール)
 - [2024年甲辰年予測GPTs](#2024年甲辰年予測gpts)
@@ -212,6 +213,50 @@
 <summary>家宅保護の霊符</summary>
 
 **[伝送中](https://github.com/Chiliovo)**
+
+</details>
+
+## 凌云易览プロジェクト予測
+
+<details>
+
+> 一部の事柄は進展が遅く、数日から十数日後にならないと結果が出ないことがあります。そのような場合、すぐに決断を下す必要はありませんが、事前に準備しておくことが重要です。
+
+> では、物事が順調に進むのか、それとも困難に直面するのか、どう判断すれば良いのでしょうか？ 占いの中で主要な要素がどの宮に配置され、その宮が吉門に対応するか凶門に対応するかを見ます。
+
+> もし吉門に対応するならば、物事は順調に進むでしょう。しかし、凶門に対応する場合は、障害や遅延が発生する可能性があるため、十分な準備が必要です。
+
+<summary>伏吟盤</summary>
+
+### [GPTs解釈例](https://github.com/Chiliovo)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/1.jpg" width="300px" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/2.jpg" width="300px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/3.jpg" width="300px" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/4.jpg" width="300px" />
+    </td>
+  </tr>
+</table>
+
+- **2024年10月21日 22:17**
+
+  **次の干支要素で起局**：  
+  年：甲辰 (Jia-Chen)  
+  月：甲戌 (Jia-Xu)  
+  日：戊午 (Wu-Wu)  
+  時：癸亥 (Gui-Hai)  
+  **占事**：このプロジェクトの今後の進展を予測
 
 </details>
 
