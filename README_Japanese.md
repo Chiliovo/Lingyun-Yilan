@@ -157,7 +157,7 @@
 
 > 個人が生まれたその瞬間、天地の磁場エネルギーが体内に注入され、それがある程度その人の人生の軌跡を決定します。これがいわゆる「運命」というものです。
 
-#### [八字速断GPTs](https://chatgpt.com/g/g-80MQmH27m-ba-zi-su-duan-ling-yun-yi-lan)
+#### [八字速断GPTs](https://chatgpt.com/g/g-IOIhAacaZ-ba-zi-su-duan-ling-yun-yi-lan)
 
 <div align="center">
   <a href="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/AI%20fortune-telling/freecompress-AI%20fortune-telling.mp4?raw=true" download="AI-fortune-telling.mp4">
