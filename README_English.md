@@ -19,6 +19,7 @@ If you like this project, please give it a star ⭐ Thank you~
 - [Bazi Quick Divination](#bazi-quick-divination)
 - [Taoist Talismans Usage](#taoist-talismans-usage)
 - [GPTs Script Sharing](#gpts-script-sharing)
+- [Lingyun Yilan Project Forecast](#lingyun-yilan-project-forecast)
 - [More Practical GPTs Tools](#more-practical-gpts-tools)
 - [Jiachen Year 2024 Prediction GPTs](#jiachen-year-2024-prediction-gpts)
 - [Social Media](#social-media)
@@ -164,6 +165,47 @@ If you like this project, please give it a star ⭐ Thank you~
 <summary>House Protection Talismans</summary>
 
 **[Transmitting](https://github.com/Chiliovo)**
+
+</details>
+
+## Lingyun Yilan Project Forecast
+
+<details>
+
+> Some things develop slowly, taking a few days or even a couple of weeks to yield results. In such cases, you don't need to make immediate decisions but should prepare in advance.
+
+> So, how do we determine whether things will proceed smoothly or face obstacles? We look at the position of the primary element in the divination chart and see whether it corresponds to a favorable or unfavorable gate.
+
+> If it's a favorable gate, things are likely to go smoothly. But if it's an unfavorable gate, you should prepare for potential challenges or delays.
+
+<summary>Fuyin Chart</summary>
+
+### [GPTs Interpretation Example](https://github.com/Chiliovo)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/1.jpg" width="300px" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/2.jpg" width="300px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/3.jpg" width="300px" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/4.jpg" width="300px" />
+    </td>
+  </tr>
+</table>
+
+- **October 21, 2024 - 22:17**
+
+  **Chart created with the following Chinese Zodiac elements:**  
+  Year: Jia-Chen (甲辰), Month: Jia-Xu (甲戌), Day: Wu-Wu (戊午), Hour: Gui-Hai (癸亥)  
+  **Topic:** Forecasting the future path of this project.
 
 </details>
 
