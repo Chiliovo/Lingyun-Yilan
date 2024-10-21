@@ -18,8 +18,8 @@
 ## 目录
 - [周公解梦](#周公解梦)
 - [八字速断](#八字速断)
-- [道教灵符功用](#道教灵符功用)
-- [凌云易览项目预测](#凌云易览卦象)
+- [道家灵符功用](#道家灵符功用)
+- [凌云易览项目预测](#凌云易览卦象预测)
 - [GPTs脚本代码分享](#gpts脚本代码分享)
 - [更多实用GPTs工具](#更多实用gpts工具)
 - [2024年甲辰年预测GPTs](#2024年甲辰年预测gpts)
@@ -224,7 +224,7 @@
 
 </details>
 
-## 凌云易览卦象
+## 凌云易览卦象预测
 
 <details>
 
@@ -236,7 +236,26 @@
 
 <summary>伏吟盘</summary>
 
-**[AI解读示例](https://github.com/Chiliovo)**
+### [GPTs解读示例](https://github.com/Chiliovo)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/1.jpg" width="300px" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/2.jpg" width="300px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/3.jpg" width="300px" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chiliovo/Lingyun-Yilan/blob/main/Qi%20Men%20Dun%20Jia/Qimen%20Dunjia%20Interpretation%20-%20Example/4.jpg" width="300px" />
+    </td>
+  </tr>
+</table>
 
 - 2024-10-21-22:17
 
